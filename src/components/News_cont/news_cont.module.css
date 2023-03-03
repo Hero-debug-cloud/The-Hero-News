@@ -1,0 +1,30 @@
+.news_cont{
+    border:1px solid black;
+    border-radius: 8px;
+    margin: 3vh;
+    display: flex;
+}
+.left{
+  width: 50%;
+  height: 50vh;
+  padding:8px;
+}
+.right{
+  width: 50%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+}
+
+.btn_cont{
+    display: flex;
+    justify-content: end;
+}
+.full_btn{
+    padding:10px;
+}
+.img{
+    height: 100%;
+    width: 100%;
+}

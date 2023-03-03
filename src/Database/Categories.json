@@ -1,0 +1,30 @@
+[
+   {
+    "id":1,
+    "name":"Government"
+   },
+   {
+    "id":2,
+    "name":"Sports"
+   },
+   {
+    "id":3,
+    "name":"Arts"
+   },
+   {
+    "id":4,
+    "name":"Education"
+   },
+   {
+    "id":5,
+    "name":"Technology"
+   },
+   {
+    "id":6,
+    "name":"Lifestyle"
+   },
+   {
+    "id":7,
+    "name":"More"
+   }
+]

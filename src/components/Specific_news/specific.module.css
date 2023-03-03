@@ -1,0 +1,28 @@
+.specific{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 4vh 0;
+}
+
+.specific_inner{
+    width: 60%;
+    margin: 0 5vw;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.img_cont{
+    margin: 4vh 0;
+}
+
+.cancel{
+   
+}
+.dis{
+/* white-space: pre;
+max-width: 60%;
+border: 1px solid red; */
+white-space:break-spaces;
+}

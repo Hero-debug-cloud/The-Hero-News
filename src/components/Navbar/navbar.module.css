@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+.date,.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.right_cont{
+    display: flex;
+    align-items: center;
+}
+.login{
+    margin: 0 3vw;
+    padding: 10px;
+}
+
